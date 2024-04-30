@@ -1,0 +1,1 @@
+# fs_placeables_qbcore
